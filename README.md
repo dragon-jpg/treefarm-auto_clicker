@@ -8,4 +8,4 @@ minecraft 樹場連點器
 
 注意事項:
 1.不用python
-2.退出用esc 推出之後切不了視窗的話按ctrl+alt_del然後再按取消
+2.退出按esc 推出之後切不了視窗的話按ctrl+alt_del然後再按取消
