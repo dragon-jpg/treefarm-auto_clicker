@@ -7,5 +7,5 @@ minecraft 樹場連點器
 
 
 注意事項:
-1.不知道爲什麽不可以打包 所以請下一個python
-2.package:pyautogui pynput
+1.不用python
+2.退出用esc 推出之後切不了視窗的話按ctrl+alt_del然後再按取消
